@@ -1,0 +1,11 @@
+.links__item {
+    background-color: yellow;
+}
+
+.links__item_size_45 {
+    width: 45px;
+}
+
+.links__item_size_34 {
+    width: 34px;
+}

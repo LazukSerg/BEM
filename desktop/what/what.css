@@ -1,0 +1,20 @@
+.what {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.text__what {
+    margin-left: 100px;
+    margin-right: 190px;
+}
+
+.image__what {
+    width: 600px;
+    margin-left: 180px;
+    margin-right: 60px;
+}
+
+.title__what {
+    margin-inline-start: -100px;
+}

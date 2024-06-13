@@ -1,0 +1,14 @@
+.footer__special {
+    background-color: yellow;
+    text-align: center;
+    width: 50%;
+}
+
+.paragraph__footer__special {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.button__footer__special {
+    margin-bottom: 25px;
+}

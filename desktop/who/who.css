@@ -1,0 +1,19 @@
+.who {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.text__who {
+    margin-left: 280px;
+    margin-right: 60px;
+}
+
+.image__who {
+    margin-left: 60px;
+    margin-right: 200px;
+}
+
+.title__who {
+    margin-inline-start: -100px;
+}

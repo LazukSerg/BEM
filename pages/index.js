@@ -1,0 +1,16 @@
+require('../desktop/body/body.css');
+require('../desktop/header/header.css');
+require('../desktop/header/subtext/header__subtext.css');
+require('../desktop/button/button.css');
+require('../desktop/paragraph/paragraph.css');
+require('../desktop/title/title.css');
+require('../desktop/who/who.css');
+require('../desktop/what/what.css');
+require('../desktop/pictures/pictures.css');
+require('../desktop/pictures/item/pictures__item.css');
+require('../desktop/feedback/feedback.css');
+require('../desktop/footer/footer.css');
+require('../desktop/footer/special/footer__special.css');
+require('../desktop/footer/join/footer__join.css');
+require('../desktop/footer/join/links/links.css');
+require('../desktop/footer/join/links/item/links__item.css');
